@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-¡Bienvenidos a mi portafolio de Ciencia de Datos! En este repositorio presento tres proyectos destacados que reflejan mis habilidades y experiencia en análisis exploratorio de datos, minería de datos, aprendizaje automático, aprendizaje profundo, procesamiento de lenguaje natural e Inteligencia Artificial Generativa.
+¡Bienvenidos a mi portafolio de Ciencia de Datos! En este repositorio presento tres proyectos destacados que reflejan mis habilidades y experiencia en análisis exploratorio de datos, minería de datos, aprendizaje automático, aprendizaje profundo, procesamiento de lenguaje natural e inteligencia artificial generativa.
 
 ## Proyectos
 
