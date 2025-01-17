@@ -1,37 +1,24 @@
 # Data Science Portfolio
 
-¡Bienvenidos a mi portafolio de Ciencia de Datos! En este repositorio presento tres proyectos destacados que reflejan mis habilidades y experiencia en análisis exploratorio de datos, minería de datos, aprendizaje automático, procesamiento de lenguaje natural y aprendizaje profundo.
+¡Bienvenidos a mi portafolio de Ciencia de Datos! En este repositorio presento tres proyectos destacados que reflejan mis habilidades y experiencia en análisis exploratorio de datos, minería de datos, aprendizaje automático, aprendizaje profundo, procesamiento de lenguaje natural e Inteligencia Artificial Generativa.
 
 ## Proyectos
 
 ### 1. **Detección del cáncer mediante modelos de clasificación de miARNs**
-- **Descripción:** Trabajo de Fin de Maestría enfocado en la detección del cáncer mediante el uso de modelos de clasificación de microARNs (miARNs).
-- **Metodologías:** Análisis Exploratorio de Datos (EDA), Minería de Datos y Machine Learning.
-- **Materiales:** 
-  - Este repositorio incluye el Notebook con el desarrollo principal.
-  - El proyecto completo, que contiene los datos de origen y los resultados relevantes, está disponible en la siguiente URL: [Repositorio del TFM](https://github.com/mnunezmartinez/14MBID---TFM).
+- **Descripción:** Este proyecto aborda la detección de cáncer mediante modelos de clasificación sobre datos de miARNs obtenidos de biopsias líquidas. Incluye un análisis exploratorio para garantizar la calidad de los datos, selección de características que identificaron 145 miARNs relevantes, y evaluación de modelos de clasificación como SVM, KNN, XGBoost, Random Forest y MLP. XGBoost destacó con una sensibilidad del 98,99 % y un F1-Score de 0,9159. También se analizó la importancia de los miARNs seleccionados, resaltando biomarcadores clave para la detección temprana del cáncer.
+- **Materiales:** Este repositorio incluye el Notebook con el desarrollo principal. El proyecto completo está disponible aquí: [Repositorio del TFM](https://github.com/mnunezmartinez/14MBID---TFM).
 
 ### 2. **News Category Semantic Search with Generative AI**
-- **Descripción:** Implementación de un sistema de búsqueda semántica en noticias basado en técnicas de Procesamiento de Lenguaje Natural (NLP) y Generative AI.
-- **Metodologías:** 
-  - Extracción de características semánticas.
-  - Modelos de Generative AI para mejorar la precisión en la búsqueda.
-- **Materiales:** 
-  - Este repositorio incluye solo el código del proyecto.
-  - El proyecto completo, que incluye los embeddings y los vectorstores creados, está disponible en la siguiente carpeta de Google Colab: [Carpeta del proyecto](https://drive.google.com/drive/folders/12yRPqxs_-bPI36LdfhWMZwNYk7DFvBs_?usp=sharing). Debido a su tamaño y a la necesidad de utilizar GPU, no se ha podido incluir en GitHub.
-- **Importamte:**
-  - El código fue creado hace 2 meses, por lo que el número de tokens del modelo utilizado ha variado y hay celdas que no han podido ejecutarse. 
+- **Descripción:** Este proyecto desarrolla un sistema de búsqueda semántica utilizando NLP y Generative AI. Implementa un pipeline que incluye el uso de embeddings para búsqueda semántica, integración de modelos de lenguaje grande para tareas como resúmenes y respuestas a preguntas, y un diseño escalable para extenderse a otras tareas como clasificación o recomendaciones. El proyecto utiliza el News Category Dataset de Kaggle.
+- **Nota:** Este código fue creado hace 2 meses, y algunas celdas no pudieron ejecutarse recientemente debido a cambios en el número de tokens de los modelos utilizados.
+- **Materiales:** Este repositorio incluye solo el código. El proyecto completo, que incluye los embeddings y vectorstores, está disponible aquí: [Carpeta del proyecto](https://drive.google.com/drive/folders/12yRPqxs_-bPI36LdfhWMZwNYk7DFvBs_?usp=sharing).
 
 ### 3. **Shoes, Sandals and Boots Image Classification Problem**
-- **Descripción:** Proyecto de clasificación de imágenes utilizando Deep Learning para identificar calzado en tres categorías: zapatos, sandalias y botas.
-- **Metodologías:** 
-  - Entrenamiento de modelos de clasificación de imágenes.
-  - Evaluación y optimización del rendimiento del modelo.
-- **Materiales:** Jupyter Notebook con el pipeline de Deep Learning.
-
+- **Descripción:** Este proyecto se centra en la clasificación de imágenes de calzado en tres categorías (zapatos, sandalias, botas) utilizando Deep Learning. Se implementaron estrategias como entrenamiento desde cero (*from scratch*), Transfer Learning y Fine-Tuning con arquitecturas como ResNet e InceptionV3. También se emplearon técnicas de regularización, aumento de datos y análisis de curvas de aprendizaje.
+- **Materiales:** Se incluye un Jupyter Notebook con el desarrollo completo del pipeline.
 
 ## Contacto
-Si tienes alguna pregunta o deseas más información, no dudes en contactarme a través de [nunezmartinezmalena@gmail.com].
+Si tienes alguna pregunta o deseas más información, no dudes en contactarme a través de [nunezmartinezmalena@gmail.com] o [https://www.linkedin.com/in/malena-nunez-martinez/].
 
 ---
 
