@@ -9,7 +9,8 @@
 - **Materiales:** Este repositorio incluye el Notebook con el desarrollo principal. El proyecto completo está disponible aquí: [Repositorio del TFM](https://github.com/mnunezmartinez/14MBID---TFM).
 
 ### 2. **News Category Semantic Search with Generative AI**
-- **Descripción:** Este proyecto desarrolla un sistema de búsqueda semántica utilizando NLP y Generative AI. Implementa un pipeline que incluye el uso de embeddings para búsqueda semántica, integración de modelos de lenguaje grande para tareas como resúmenes y respuestas a preguntas, y un diseño escalable para extenderse a otras tareas como clasificación o recomendaciones. El proyecto utiliza el News Category Dataset de Kaggle.
+- **Descripción:** Este proyecto desarrolla un sistema de búsqueda semántica utilizando NLP y Generative AI. Implementa un pipeline que incluye el uso de embeddings para búsqueda semántica, integración de modelos de lenguaje grande para tareas como resúmenes y respuestas a preguntas, y un diseño escalable para extenderse a otras tareas como clasificación o recomendaciones. El proyecto utiliza el News Category Dataset de Kaggle ([Download the dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset)).
+
 - **Nota:** Este código fue creado hace 2 meses, y algunas celdas no pudieron ejecutarse recientemente debido a cambios en el número de tokens de los modelos utilizados.
 - **Materiales:** Este repositorio incluye solo el código. El proyecto completo, que incluye los embeddings y vectorstores, está disponible aquí: [Carpeta del proyecto](https://drive.google.com/drive/folders/12yRPqxs_-bPI36LdfhWMZwNYk7DFvBs_?usp=sharing).
 
